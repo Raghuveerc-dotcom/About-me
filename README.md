@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raghuveerc-dotcom
+- 👋 Hi, I’m Sri Sai Raghuveer C
 - 👀 I’m interested in creating stuff that machine does
 - 🌱 I’m currently learning appdev,webdev,ai&ml
 - 💞️ I’m looking to collaborate on any thing
