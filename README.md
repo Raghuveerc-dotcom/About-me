@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning appdev,webdev,ai&ml
 - 💞️ I’m looking to collaborate on any thing
 - 📫 How to reach me - raghuveer8390@outlook.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Raghuveerc-dotcom/Raghuveerc-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
